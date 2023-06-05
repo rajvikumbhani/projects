@@ -1,0 +1,40 @@
+.inf {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+}
+
+.emn {
+    margin: 20px 40px;
+}
+
+
+.cons {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #4C2CC0;
+    margin-top: 30px;
+}
+
+img {
+    margin: 0 10px;
+    align-items: center;
+    justify-content: center;
+    /* display: flex; */
+
+}
+
+.fot {
+    position: absolute;
+    left: 1096px;
+    bottom: 10px;
+}
+.fon{
+    position: absolute;
+    left: 1076px;
+    bottom: -12px;
+}

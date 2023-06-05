@@ -1,0 +1,121 @@
+.sub {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+
+.line {
+    width: 150px;
+    border: 1px solid #000;
+    position: absolute;
+    left: 210px;
+    top: 130px;
+}
+
+.wer {
+    color: #4C2CC0;
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: bold;
+    margin: 30px 0;
+}
+
+.per {
+    color: #FFB118;
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.paragraph {
+    font-family: poppins;
+    font-size: 18px;
+    width: 482px;
+
+}
+
+.box1 {
+    position: absolute;
+    width: 263px;
+    height: 247px;
+    left: 877px;
+    top: 218px;
+    background-color: #4C2CC0;
+}
+
+.box2 {
+    position: absolute;
+    width: 261px;
+    height: 254px;
+    left: 908px;
+    top: 188px;
+    background: rgba(76, 44, 192, 0.3);
+}
+
+.box3 {
+    position: absolute;
+    width: 260px;
+    height: 257px;
+    left: 940px;
+    top: 155px;
+    background: rgba(76, 44, 192, 0.3);
+}
+
+.box4 {
+    position: absolute;
+    width: 258px;
+    height: 256px;
+    left: 971px;
+    top: 125px;
+    background: rgba(76, 44, 192, 0.3);
+}
+
+.ski {
+    color: #4C2CC0;
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: bold;
+    margin: 30px 0;
+}
+
+.her {
+    color: #FFB118;
+    font-size: 50px;
+    font-family: poppins;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.line1 {
+    height: 100px;
+    border: 1px solid #000;
+    position: absolute;
+    left: 297px;
+    top: 567px;
+}
+
+.ai {
+    list-style: none;
+    margin-right: 90px;
+}
+
+.icon{
+    color: #4C2CC0;
+    font-size: 25px;
+    position: absolute;
+    left: 1107px;
+}
+.icon2{
+    color: #4C2CC0;
+    font-size: 25px;
+    position: absolute;
+    left: 1145px;
+}
+.icon3{
+    color: #4C2CC0;
+    font-size: 25px;
+    position: absolute;
+    left: 1182px;
+}

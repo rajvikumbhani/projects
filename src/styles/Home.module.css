@@ -1,0 +1,85 @@
+ .w-50 {
+     width: 50%;
+ }
+
+ .padding-top {
+     padding: 100%;
+ }
+
+ .hiding {
+     color: #4C2CC0;
+     font-family: poppins;
+     font-weight: bolder;
+     font-size: 50px;
+     width: 328px;
+ }
+
+ .para {
+     color: #FFB118;
+     display: inline-block;
+     font-size: 50px;
+     font-weight: bolder;
+     width: 135px;
+ }
+
+ .web {
+     font-size: 15px;
+     font-weight: 600;
+     width: 353px;
+  
+ 
+ }
+ 
+
+ .me {
+     width: 178px;
+     height: 50px;
+     font-family: 'Poppins';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 20px;
+     border-radius: 10px;
+     background-color: #4C2CC0;
+     margin-bottom: 95px;
+ }
+
+ .see {
+     width: 190px;
+     height: 53px;
+     margin-left: 10px;
+     border: 3px solid #4C2CC0;
+     border-radius: 10px;
+     font-weight: 800;
+     font-size: 20px;
+     line-height: 33px;
+     color: #000000;
+ }
+
+ .images {
+     margin-bottom: 100px;
+ }
+
+ .banner_img {
+     width: 444px;
+     height: 446px;
+     margin-bottom: 40px;
+     left: 65px;
+     top: 25px;
+     position: relative;
+ }
+
+ .banner1_img {
+     width: 444px;
+     height: 446px;
+     position: absolute;
+     top: 107px;
+     right: 72px;
+     z-index: -1;
+ }
+
+ .riv {
+     font-size: 15px;
+     font-weight: 600;
+     width: 504px;
+     padding-left: 163px;
+ }
